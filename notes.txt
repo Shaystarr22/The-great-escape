@@ -1,0 +1,24 @@
+Git bash/Terminal notes
+
+Goal is = upload sample files from your computer to a GitHub repo, using Git Bash 
+(Windows)
+
+1.PWD= Print working Directory/folder 1st step= it shows where you are.
+
+2.LS= list the contents of the current directory it allow you to view all of the folders/ LET ME SEE
+
+3.CD= Change directory *example = cd documents 
+
+*clear= erase everything
+
+4. Cd .. = Tells the computer to go back up one directory
+
+*Always run as a administrator
+
+*cd start to type in folder name then hit (TAB) it completes the name (Autofill)
+
+5.Mkdir= make directory *example= mkdir (make a name) mkdir lizzofat
+
+6. Rm= remove file 
+
+7.Touch= create a file
